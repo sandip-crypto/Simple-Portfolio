@@ -13,4 +13,4 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 - HTML, CSS, JavaScript
 
 ## Live Demo
-[View Live](https://yourusername.github.io/portfolio/)
+[View Live](https://sandip-crypto.github.io/portfolio/)
